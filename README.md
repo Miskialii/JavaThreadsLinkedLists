@@ -1,0 +1,2 @@
+# JavaThreadsLinkedLists
+Parallellitet og tråder
